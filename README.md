@@ -15,7 +15,7 @@ https://fonts.google.com/specimen/Raleway
 Utilizamos:
 https://color.adobe.com/es/Prisci-color-theme-21078407
 ## Nuestro Logo
-![logo](/logo.png)
+![logo](/logoo.png)
 
 
 
