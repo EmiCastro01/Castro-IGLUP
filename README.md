@@ -20,4 +20,7 @@ https://color.adobe.com/es/Prisci-color-theme-21078407
 https://www.figma.com/file/LCWCeNfZTkEc84NlUMWtJ9/Untitled?node-id=0%3A1&t=043JdCAeitMGt2pd-0
 
 
+### Aclaraciones
+Utilice la seccion "chats" reemplazando a "carrito" debido a que no tiene mucha coherencia usar un carrito en este proyecto.
+
 
