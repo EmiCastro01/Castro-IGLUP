@@ -17,7 +17,7 @@ https://color.adobe.com/es/Prisci-color-theme-21078407
 ## Nuestro Logo
 ![logo](/logoo.png)
 ## Link Figma
-https://www.figma.com/file/LCWCeNfZTkEc84NlUMWtJ9/Untitled?node-id=7%3A1036&t=D4l0jAnLVBSaUSod-0
+https://www.figma.com/file/LCWCeNfZTkEc84NlUMWtJ9/Untitled?node-id=0%3A1&t=043JdCAeitMGt2pd-0
 
 
 
