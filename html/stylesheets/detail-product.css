@@ -17,9 +17,6 @@ html body{
     flex-direction: row;
     align-items: center;
     background-color: var(--main-color);
-    width: 411px;
-    height: 50px;
-  
 }
 
 .hamburger-icon{
@@ -31,7 +28,6 @@ html body{
     height: 50px;
 }
 .footer{
-    width: 411px;
     padding: 0;
     margin-top: 5px;
 }
@@ -67,10 +63,20 @@ main{
 #worker-main-block{
     border: solid 2px rgba(128, 128, 128, 0.418);
     text-align: center;
-    padding: 4pxpx;
+    padding: 4px;
 }
 #price-num{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+}
+.social-media-links-icons{
+    display: flex;
+    justify-content: space-between;
+}
+#article{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 3px 4px grey;
+    padding: 5px;
 }
